@@ -13,7 +13,8 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+```
 
-##Live Version
+## Live Version
 
 [Live](https://galaxy-ivory.vercel.app/)
